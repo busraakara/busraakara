@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Natural Learning Processing</p>
+<p align="left">🌱 I’m currently learning Modern C++</p>
 
 ###
 
