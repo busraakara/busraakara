@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning C++</p>
+<p align="left">🌱 I’m currently learning C</p>
 
 ###
 
