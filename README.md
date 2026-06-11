@@ -1,7 +1,58 @@
-Hi, I'm Busra 👋 I'm an electrical electronics engineer, trying to learn Modern C++ (hope so).
+<img width="1043" height="396" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/ebe42141-8fa7-41b8-a53d-ea7fd7c7a376" />
+<br clear="both">
 
+<h1 align="center">Hi, I'm Büşra</h1>
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=panda)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=panda)|
+###
+
+<p align="left">I'm interested in Edge AI Computing<br>Currently learning: Modern C++</p>
+
+###
+
+<h4 align="left">Connect with me:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/busraakara/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="busraesmakara@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=dracula)
 
 <!--
 **busraakara/busraakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
