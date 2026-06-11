@@ -1,4 +1,4 @@
-<img width="1043" height="396" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/ebe42141-8fa7-41b8-a53d-ea7fd7c7a376" />
+<img width="900" height="300" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/ebe42141-8fa7-41b8-a53d-ea7fd7c7a376" />
 <br clear="both">
 
 <h1 align="center">Hi, I'm Büşra</h1>
@@ -56,7 +56,7 @@
 
 ###
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=dracula)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=dracula)          ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=dracula)
 
 <!--
 **busraakara/busraakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
