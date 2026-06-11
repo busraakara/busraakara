@@ -12,30 +12,33 @@
 </div>
 <h4 align="left">Languages & Tools:</h4>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="20" alt="c logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="20" alt="cmake logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="20" alt="cplusplus logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="20" alt="linux logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="20" alt="mongodb logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="20" alt="opencv logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="20" alt="python logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" alt="pytorch logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="20" alt="qt logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" alt="tensorflow logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="30" alt="cmake logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="30" alt="qt logo"  />
+  <img width="9" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
+  <img width="9" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
+
+###
+
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=dracula)          ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=dracula)
 
 <!--
