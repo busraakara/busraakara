@@ -1,4 +1,4 @@
-<img width="1000" height="200" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/ebe42141-8fa7-41b8-a53d-ea7fd7c7a376" />
+<img width="800" height="170" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/ebe42141-8fa7-41b8-a53d-ea7fd7c7a376" />
 <br clear="both">
 
 <h1 align="center">Hi, I'm Büşra</h1>
