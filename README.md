@@ -24,6 +24,10 @@
 
 ###
 
+<h4 align="left">Languages & Tools:</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
