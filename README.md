@@ -1,7 +1,7 @@
-Hi, I'm Busra. I'm a electrical and electronics engineer, trying to learn Modern C++ (hope so).
+Hi, I'm Busra 👋 I'm an electrical electronics engineer, trying to learn Modern C++ (hope so).
 
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=dracula)|
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=panda)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=panda)|
 
 <!--
 **busraakara/busraakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
