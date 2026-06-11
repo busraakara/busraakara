@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm interested in Edge AI Computing<br>Currently learning: Modern C++</p>
+<p align="left">Currently learning: Modern C++</p>
 
 ###
 
