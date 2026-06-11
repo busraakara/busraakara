@@ -1,18 +1,7 @@
-<img width="800" height="200" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/ebe42141-8fa7-41b8-a53d-ea7fd7c7a376" />
-<br clear="both">
-
+<img width="1043" height="396" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/560d8e61-140f-410e-aa23-cd30cb179bea" />
 <h1 align="center">Hi, I'm Büşra</h1>
-
-###
-
 <p align="left">Currently learning: Modern C++</p>
-
-###
-
 <h4 align="left">Connect with me:</h4>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/busraakara/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="26" height="20" alt="linkedin logo"  />
@@ -21,13 +10,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="26" height="20" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
 <h4 align="left">Languages & Tools:</h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="20" alt="c logo"  />
   <img width="6" />
@@ -53,9 +36,6 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
 </div>
-
-###
-
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraakara&theme=dracula)          ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraakara&theme=dracula)
 
 <!--
