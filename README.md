@@ -1,6 +1,7 @@
 <img width="1043" height="396" alt="Adsız tasarım (2)" src="https://github.com/user-attachments/assets/560d8e61-140f-410e-aa23-cd30cb179bea" />
 <h1 align="center">Hi, I'm Büşra</h1>
 <p align="left">Currently learning: Modern C++</p>
+<p align="left">Interested in: Edge AI</p>
 <h4 align="left">Connect with me:</h4>
 <div align="left">
   <a href="https://www.linkedin.com/in/busraakara/" target="_blank">
